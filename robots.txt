@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://5lionsmegaways2.org/sitemap.xml

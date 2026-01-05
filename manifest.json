@@ -1,0 +1,19 @@
+{
+    "name": "5 Lions Megaways 2 guide for Australia | Big win play",
+    "short_name": "5 Lions Megaways 2",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "5 Lions Megaways 2 play guide for Australians | Learn features, legality, gameplay tips and how to play safely at licensed casinos today.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
